@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/mathiasBday/static/media/img3.de8f8741.jpg"
   },
   {
-    "revision": "42f43c8fb81abd31c46c",
-    "url": "/mathiasBday/static/css/main.fc7e9ec8.chunk.css"
+    "revision": "6b38e4742e7c7cdccfc1",
+    "url": "/mathiasBday/static/css/main.bb71675f.chunk.css"
   },
   {
     "revision": "2f78a065310963d26be6",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/mathiasBday/static/media/img2.101bca1a.jpg"
   },
   {
-    "revision": "42f43c8fb81abd31c46c",
-    "url": "/mathiasBday/static/js/main.42f43c8f.chunk.js"
+    "revision": "6b38e4742e7c7cdccfc1",
+    "url": "/mathiasBday/static/js/main.6b38e474.chunk.js"
   },
   {
     "revision": "6e038d412a8d346c1a66eea1fd3c51ed",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/mathiasBday/static/media/img8.f7281744.jpg"
   },
   {
-    "revision": "52430f497d417ec773a724bd43fa79fd",
+    "revision": "af9165d497462d620a7a5ddd0d510f6e",
     "url": "/mathiasBday/index.html"
   }
 ];
